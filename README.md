@@ -1,0 +1,2 @@
+# Shinchan-Bot
+Shinchan Team
